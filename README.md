@@ -25,7 +25,7 @@ Welcome to our Pizza Shop project! This application is designed to simulate a pi
 
 1. Clone the repository:
    ```
-   git clone [repository link]
+   git clone https://github.com/babbar096/PizzaReactApp.git
    ```
 2. Navigate to the project directory:
    ```
